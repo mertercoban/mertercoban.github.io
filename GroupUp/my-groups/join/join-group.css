@@ -1,13 +1,13 @@
 button {
     background-color: #55868c;
     border: none;
-    border-radius: 10px;
+    border-radius: 20px;
     color: white;
     text-align: center;
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-    width: 120px;
+    width: 60px;
     height: 50px;
 }
 
@@ -17,8 +17,8 @@ button {
 
 .groups{
     margin-top: 5%;
+    margin-left: 15%;
     display: flex;
-    flex-direction: column;
     align-items: center;
     gap: 24px;
 }
